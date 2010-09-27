@@ -19,7 +19,7 @@ def compose(listOfFunctions):
 	return reduce(_compose, listOfFunctions)
 
 def to_json(x):
-		return str(x).replace("None", "null").replace("u'", "'").replace("True", "true").replace("False", "false")
+		return str(x).replace("None", "null").replace("u'", "'").replace('"', '\\"').replace("'", '"').replace("True", "true").replace("False", "false")
 
 
 ###############################################
