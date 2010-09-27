@@ -58,10 +58,7 @@ def getJSON(courseGradeJSONLink):
 def getCourseGradeJSON():
 	# equivalent Haskell:
 	# map (getJSON . getCourseGradeJSONLink . getCourseGradeBookLink) getCourseLinks	
-	return map(compose([getJSON,
-						getCourseGradeJSONLink, 
-					    getCourseGradeBookLink]), 
-			   getCourseLinks())
+	return map(compose([getJSON, getCourseGradeJSONLink, getCourseGradeBookLink]), getCourseLinks())
 
 	
 
