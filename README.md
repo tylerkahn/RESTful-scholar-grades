@@ -22,6 +22,7 @@ Basic Usage
 Example of Data Returned
 ---------------------------
 
-Coming soon.
+[Click here][2] and then click on the 'Viewer' tab.
 
   [1]: https://scholar.vt.edu/
+  [2]: http://jsonviewer.stack.hu/#http://github.com/tkahn6/RESTful-scholar-grades/raw/master/output-example.json
