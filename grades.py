@@ -40,15 +40,15 @@ def getCourseLinks():
 	
 
 def getCourseGradeBookLink(courseLink):
-		browser.open(courseLink)
-		d = pq(browser.contents)
-		return d(".icon-sakai-gradebook-gwt-rpc").attr.href
+	browser.open(courseLink)
+	d = pq(browser.contents)
+	return d(".icon-sakai-gradebook-gwt-rpc").attr.href
 	
 def getCourseGradeJSONLink(courseGradeBookLink):
-		browser.open(courseGradeBookLink)
-		d = pq(browser.contents)
-		s = d(".portletMainWrap").children().attr.src
-		return s.replace("?panel=Main", "/gradebook/rest/application/")
+	browser.open(courseGradeBookLink)
+	d = pq(browser.contents)
+	s = d(".portletMainWrap").children().attr.src
+	return s.replace("?panel=Main", "/gradebook/rest/application/")
 		
 def getJSON(courseGradeJSONLink):
 	browser.open(courseGradeJSONLink)
