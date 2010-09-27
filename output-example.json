@@ -1,0 +1,223 @@
+[
+    {
+        "currentGrade": {
+            "score": "93.04",
+            "letter": "A" 
+        },
+        "assignmentSections": [
+            {
+                "assignments": [
+                    {
+                        "points": null,
+                        "totalPoints": 100.0,
+                        "name": "Practice HW (to be done in Week 1 Workshop)",
+                        "dueDate": "2010-08-31" 
+                    },
+                    {
+                        "points": 90.0,
+                        "totalPoints": 100.0,
+                        "name": "HW 1 (due Sept 1)",
+                        "dueDate": "2010-09-01" 
+                    },
+                    {
+                        "points": 10.0,
+                        "totalPoints": 10.0,
+                        "name": "Quiz 1 (Sept 1 - 8)",
+                        "dueDate": "2010-09-08" 
+                    },
+                    {
+                        "points": 10.0,
+                        "totalPoints": 10.0,
+                        "name": "Quiz 3 (Sept 15 - 22)",
+                        "dueDate": "2010-09-22" 
+                    },
+                    {
+                        "points": 95.0,
+                        "totalPoints": 100.0,
+                        "name": "HW 2 (due Sept 8)",
+                        "dueDate": "2010-09-08" 
+                    },
+                    {
+                        "points": null,
+                        "totalPoints": 100.0,
+                        "name": "HW 3 (due Sept 15)",
+                        "dueDate": "2010-09-15" 
+                    },
+                    {
+                        "points": 9.0,
+                        "totalPoints": 10.0,
+                        "name": "Quiz 2 (Sept 8 - 15)",
+                        "dueDate": "2010-09-15" 
+                    },
+                    {
+                        "points": null,
+                        "totalPoints": 100.0,
+                        "name": "HW 4 (due Sept 22)",
+                        "dueDate": "2010-09-22" 
+                    },
+                    {
+                        "points": null,
+                        "totalPoints": 100.0,
+                        "name": "HW 5 (due Sept 29)",
+                        "dueDate": "2010-09-29" 
+                    } 
+                ],
+                "name": null 
+            } 
+        ],
+        "name": "ENGE_1024_96823_201009" 
+    },
+    {
+        "currentGrade": {
+            "score": "98.75",
+            "letter": "A" 
+        },
+        "assignmentSections": [
+            {
+                "assignments": [
+                    {
+                        "points": 100.0,
+                        "totalPoints": 100.0,
+                        "name": "Workshop 3 - Lego Sketch",
+                        "dueDate": "2010-09-08" 
+                    },
+                    {
+                        "points": 95.0,
+                        "totalPoints": 100.0,
+                        "name": "\"How Stuff Works\" Presentation Submission",
+                        "dueDate": "2010-12-03" 
+                    },
+                    {
+                        "points": 100.0,
+                        "totalPoints": 100.0,
+                        "name": "Workshop 4 - Flow Charts",
+                        "dueDate": "2010-09-15" 
+                    },
+                    {
+                        "points": null,
+                        "totalPoints": 100.0,
+                        "name": "SEDP - Research Report",
+                        "dueDate": "2010-10-06" 
+                    },
+                    {
+                        "points": 100.0,
+                        "totalPoints": 100.0,
+                        "name": "Workshop 5 - Graphing",
+                        "dueDate": "2010-09-22" 
+                    } 
+                ],
+                "name": null 
+            } 
+        ],
+        "name": "ENGE_1024_96823_201009" 
+    },
+    {
+        "currentGrade": {
+            "score": null,
+            "letter": null 
+        },
+        "assignmentSections": [
+            {
+                "assignments": [
+                    {
+                        "points": null,
+                        "totalPoints": 50.0,
+                        "name": "Individual Presentation",
+                        "dueDate": "2010-08-31" 
+                    },
+                    {
+                        "points": null,
+                        "totalPoints": 100.0,
+                        "name": "Academic Plan (Initial)",
+                        "dueDate": "2010-09-07" 
+                    },
+                    {
+                        "points": null,
+                        "totalPoints": 100.0,
+                        "name": "Resume",
+                        "dueDate": "2010-09-07" 
+                    },
+                    {
+                        "points": null,
+                        "totalPoints": 100.0,
+                        "name": "Community Activities",
+                        "dueDate": "2010-12-07" 
+                    },
+                    {
+                        "points": null,
+                        "totalPoints": 75.0,
+                        "name": "EXPO I",
+                        "dueDate": "2010-09-16" 
+                    },
+                    {
+                        "points": null,
+                        "totalPoints": 100.0,
+                        "name": "Service Learning ",
+                        "dueDate": "2010-11-16" 
+                    },
+                    {
+                        "points": null,
+                        "totalPoints": 100.0,
+                        "name": "Extracurricular Involvement (OPTIONAL)",
+                        "dueDate": "2010-10-05" 
+                    },
+                    {
+                        "points": null,
+                        "totalPoints": 200.0,
+                        "name": "Professional Engineer Interview (OPTIONAL)",
+                        "dueDate": "2010-12-07" 
+                    },
+                    {
+                        "points": null,
+                        "totalPoints": 125.0,
+                        "name": "EXPO II",
+                        "dueDate": "2010-09-21" 
+                    } 
+                ],
+                "name": null 
+            } 
+        ],
+        "name": "ENGR_1054_98428_201009" 
+    },
+    {
+        "currentGrade": {
+            "score": null,
+            "letter": null 
+        },
+        "assignmentSections": [
+            {
+                "assignments": [
+                    
+                ],
+                "name": null 
+            } 
+        ],
+        "name": "PHIL_5505_94915_201009" 
+    },
+    {
+        "currentGrade": {
+            "score": "100.00",
+            "letter": "A" 
+        },
+        "assignmentSections": [
+            {
+                "assignments": [
+                    {
+                        "points": 18.0,
+                        "totalPoints": 18.0,
+                        "name": "QUIUZ1",
+                        "dueDate": null 
+                    },
+                    {
+                        "points": 80.0,
+                        "totalPoints": 80.0,
+                        "name": "TEST1-part1",
+                        "dueDate": null 
+                    } 
+                ],
+                "name": null 
+            } 
+        ],
+        "name": "PHYS_2305_94997_201009" 
+    }
+]
