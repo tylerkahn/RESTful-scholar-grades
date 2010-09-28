@@ -14,7 +14,7 @@ I intend to create a web page that will use this data to present students' grade
 You, however, can do whatever you'd like with the data. I'm currently in the process of setting up a page to make this a truly RESTful data source. I have a prototype of it working, but I need to consult with people who understand security to make sure it's secure.
 
 
-Basic Usage
+Usage
 --------------
 
 `python grades.py <your-pid> <your-password>`
