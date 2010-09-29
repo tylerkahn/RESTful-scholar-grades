@@ -25,7 +25,8 @@ def to_json(x):
 ###############################################
 
 def logInToScholar(pid, password):
-	browser.cookies.clearAll()
+    # requires newer zope.testbrowser package 
+    # browser.cookies.clearAll()
 	browser.open("https://scholar.vt.edu")
 	form = browser.getForm(id='loginForm')
 	form.getControl(name="eid").value = pid
