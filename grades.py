@@ -121,8 +121,8 @@ class Course:
 	
 	def __repr__(self):
 		return str(dict(name = self.name,
-					currentGrade = self.currentGrade,
-					assignmentSections = self.assignmentSections))
+				currentGrade = self.currentGrade,
+				assignmentSections = self.assignmentSections))
 				
 
 def main(*args):
@@ -130,7 +130,7 @@ def main(*args):
 	try:
 		print to_json(map(Course, getCourseGradeJSON()))
 	except:
-		print "{'error':'incorrect pid or password'}"
+		print '''{"error":"incorrect pid or password"}'''
 
 if __name__ == "__main__":
 	sys.exit(main(*sys.argv))
